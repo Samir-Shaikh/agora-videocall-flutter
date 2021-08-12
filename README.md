@@ -1,4 +1,4 @@
-# agora_demo
+# agora-videocall-flutter
 
 A new Flutter project.
 
